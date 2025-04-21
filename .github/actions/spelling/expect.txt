@@ -1,0 +1,16 @@
+assertj
+bfs
+jspecify
+len
+Lifecycle
+mapstruct
+mozilla
+mpolivaha
+nio
+noextension
+Polivakha
+rawtypes
+readlimit
+sut
+universalchardet
+xsi
